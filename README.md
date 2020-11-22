@@ -13,4 +13,4 @@ zakładki Zabezpieczenia lub skorzystać z lupki (wyszukiwanie) wpisując niezna
 #### IOS:
 
 1.Sciągnij aplikacje Expo Client z AppStore
-2.Otwórz link na telefonie 
+2.Otwórz link na telefonie https://expo.io/@uszackip/projects/czystychelm
